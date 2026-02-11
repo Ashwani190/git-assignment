@@ -1,5 +1,4 @@
 # git-assignment
-# Simple Interest Calculator Project
 
 **Project Name:** Simple Interest Calculator  
 **Description:** A Bash script that calculates simple interest based on user input.  
